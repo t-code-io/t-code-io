@@ -1,59 +1,60 @@
-# Hey there! I'm Teisha 👾
+<img src="https://raw.githubusercontent.com/t-code-io/t-code-io/main/_%20%283%29.jpeg" width="100%" alt="banner" />
 
-> *Student dev who codes by day and games by night 🎮*
+<div align="center">
 
----
+# Teisha
 
-## 🙋 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&pause=1200&color=A0A0A0&center=true&vCenter=true&width=520&height=40&lines=Student+developer.;Codes+by+day.+Games+by+night.;Building+toward+game+dev+%2B+AI.;Notion+template+maker." alt="Typing" />
+</a>
 
-- 🎓 Student learning to code — one bug at a time
-- 🗂️ I make Notion templates for everything — available on Gumroad!
-- 🎯 Future goal: get into game development and specialise in AI 👾
+</div>
 
----
+<p align="center">──────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ──────</p>
 
-## ✅ Tech I Know
+I'm learning to build games, with a long-term goal of specialising in AI. I also make Notion templates.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Stack
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![p5.js](https://img.shields.io/badge/p5.js-000000?style=for-the-badge&logo=p5dotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
-## 🖥️ Code Editors
+## Tools
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Phoenix Code](https://img.shields.io/badge/Phoenix%20Code-FF6B35?style=for-the-badge&logo=phoenixframework&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Phoenix Code](https://img.shields.io/badge/Phoenix%20Code-000000?style=for-the-badge&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
----
+<p align="center">──────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ──────</p>
 
-## 📚 Currently Learning
+## My First Game
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**YOUR GAME NAME HERE**
 
----
+This was the first coding project I ever built, made in semester 1 with JavaScript and p5.js. I loved every minute of it. Watching something I wrote turn into a game I could actually play is the moment I knew I wanted to go into game development.
 
-## 🚀 Tools I Use to Deploy
+It's what started everything for me, and it's the reason I'm now learning more every day, with AI for games as my next goal.
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<a href="https://lighthearted-donut-f9df4f.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&pause=1000&color=A0A0A0&width=220&height=35&lines=%E2%96%B6+PLAY+IT+HERE;%E2%96%B6+PRESS+START" alt="Play it here" />
+</a>
 
----
+<p align="center">──────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ──────</p>
 
-## 🗂️ My Notion Templates
+## Notion Templates
 
-I make Notion templates for everything — check them out on Gumroad!
+I design Notion templates for just about everything.
 
-[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=000000)](https://gumroad.com/teystudios)
+<a href="https://gumroad.com/teystudios">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=16&pause=1000&color=A0A0A0&width=260&height=35&lines=%E2%96%B6+SHOP+ON+GUMROAD;%E2%96%B6+BROWSE+TEMPLATES" alt="Shop on Gumroad" />
+</a>
 
----
+<p align="center">──────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ──────</p>
 
-## ⚡ Fun Fact
-
-I'm a Roblox player who decided to switch sides and learn how to *make* the games instead 😄
-
----
-
-*Thanks for stopping by! 🙌*   
-![Profile Views](https://komarev.com/ghpvc/?username=teystudios&color=blueviolet&style=for-the-badge)
+<img src="https://raw.githubusercontent.com/t-code-io/t-code-io/main/_%20%285%29.jpeg" width="100%" alt="footer" />
