@@ -35,7 +35,7 @@ I'm learning to build games, with a long-term goal of specialising in AI. I also
 
 ## My First Game
 
-**Escape Lumi : Diamond Cave**
+**Escape, Lumi : Diamond Cave**
 
 This was the first coding project I ever built, made in semester 1 with JavaScript and p5.js. I loved every minute of it. Watching something I wrote turn into a game I could actually play is the moment I knew I wanted to go into game development.
 
